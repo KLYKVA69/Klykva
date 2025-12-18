@@ -14,7 +14,7 @@
   <li>👩🏻‍🎨 Немного нтересных фактов: Я люблю делать статуэтки из полимерной глины и рисовать эскизы для тату.</li>
 </ul>
 
-<h2>Some Tools I Use</h2>
+<h2>Инструментики</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
