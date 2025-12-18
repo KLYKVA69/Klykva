@@ -2,7 +2,7 @@
 <h2>Hello world <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
 
 <p>Привет! Меня зовут Klykva — я инженер по контролю качества программного обеспечения (QA). Здесь я публикую результаты тестирования веб- и мобильных приложений, выполненных в рамках обучения и личных проектов.
-Вы можете ознакомиться с моим <a href="[https://drive.google.com/file/d/1mqViTjwJLErSLtRAevzvQUk9YSA_3iHo/view?usp=sharing](https://krasnoznamensk-kaliningrad.hh.ru/resume/26ec4486ff0f3295f20039ed1f416b646b5a38)">резюме😊</a>.</p>
+Вы можете ознакомиться с моим <a href="https://drive.google.com/file/d/1vT0nmc6auminjc-2_6GKFgBZQtvqd62F/view?usp=sharing">резюме😊</a>.</p>
 
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" alt="QA testing gif">
