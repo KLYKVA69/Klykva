@@ -5,7 +5,7 @@
 Вы можете ознакомиться с моим <a href="https://drive.google.com/file/d/1vT0nmc6auminjc-2_6GKFgBZQtvqd62F/view?usp=sharing">резюме😊</a>.</p>
 
 <h2>Немного коротеньких фактов обо мне</h2>
-<img align="right" src="https://tenor.com/ru/view/spirited-away-ghibli-miyazaki-anime-bow-gif-19516869" height="245" alt="QA testing gif">
+<img align="right" src="https://media1.tenor.com/m/Vb9ddhV2Y1IAAAAd/spirited-away-ghibli.gif" height="245" alt="QA testing gif">
 <ul>
   <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
   <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
