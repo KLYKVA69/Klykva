@@ -44,7 +44,7 @@
   <li><a href="https://github.com/KLYKVA69/MongoDB/blob/main/README.md">MongoDB</a> – Запросы и упражнения NoSQL</li>
   <li><a href="https://github.com/KLYKVA69/Android-App-Testing">Android App Testing</a> – Ручные тесты и баг-репорты</li>
   <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/KLYKVA69/Bash/blob/main/README.md">Bash</a> – скрипты для задач QA</li>
   <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
 </ul>
 
