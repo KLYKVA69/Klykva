@@ -43,14 +43,14 @@
   <li><a href="https://github.com/KLYKVA69/MySQL">MySQL</a> – запросы и сценарии проверки баз данных</li>
   <li><a href="https://github.com/KLYKVA69/MongoDB/blob/main/README.md">MongoDB</a> – Запросы и упражнения NoSQL</li>
   <li><a href="https://github.com/KLYKVA69/Android-App-Testing">Android App Testing</a> – Ручные тесты и баг-репорты</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
   <li><a href="https://github.com/KLYKVA69/Bash/blob/main/README.md">Bash</a> – скрипты для задач QA</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/KLYKVA69/Git/blob/main/README.md">Git</a> – основные команды управления версиями</li>
 </ul>
 
-<h3 align="center">📫 Let’s connect and collaborate!</h3>
+<h3 align="center">📫 Давайте объединяться и сотрудничать!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/olyaskh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:o.skhrkv@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://drive.google.com/file/d/1vT0nmc6auminjc-2_6GKFgBZQtvqd62F/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png&size=512&format=png" width="40" height="40" alt="HH"/></a>
+  <a href="https://t.me/Tikkopiko"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:katetrot@mail.ru"><img src="https://img.icons8.com/?size=512&format=png" width="40" height="40" alt="Mail"/></a>
 </p>
