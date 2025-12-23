@@ -38,9 +38,8 @@
 </p>
 <h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/JavaTestAutomation">Java Test Automation</a> – UI and functional testing with Selenium</li>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/KLYKVA69/Online-store">Тестирование интернет-магазина</a> – UI и функциональное тестирование</li>
+  <li><a href="https://github.com/KLYKVA69/API-testing/blob/main/README.md">API Тестирование</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
   <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
