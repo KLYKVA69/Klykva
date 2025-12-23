@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
-<h2>Test Artifacts</h2>
+<h2>Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/osukhorukova/JavaTestAutomation">Java Test Automation</a> – UI and functional testing with Selenium</li>
   <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
