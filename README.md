@@ -42,7 +42,7 @@
   <li><a href="https://github.com/KLYKVA69/API-testing/blob/main/README.md">API Тестирование</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/KLYKVA69/MySQL">MySQL</a> – запросы и сценарии проверки баз данных</li>
   <li><a href="https://github.com/KLYKVA69/MongoDB/blob/main/README.md">MongoDB</a> – Запросы и упражнения NoSQL</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/KLYKVA69/Android-App-Testing">Android App Testing</a> – Ручные тесты и баг-репорты</li>
   <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
   <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
   <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
